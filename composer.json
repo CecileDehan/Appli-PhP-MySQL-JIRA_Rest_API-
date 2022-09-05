@@ -1,0 +1,7 @@
+{
+    "require": {
+        "lesstif/php-jira-rest-client": "^1.45",
+        "netresearch/jsonmapper": "*",
+        "vlucas/phpdotenv":"*"
+    }
+}
